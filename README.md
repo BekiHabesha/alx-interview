@@ -38,4 +38,8 @@
 |   |   |   |   |
 | **5** |   |   | 🟢 <br> 🟡 <br> 🔴  |
 |   |   |   |   |
-|   |   |   |   |
+|   |   |   |   |<H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
+<H1 align="center"> <ins> 0x06. Star Wars API README.md</ins> </H1>
+
+
+##
